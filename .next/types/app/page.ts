@@ -1,4 +1,4 @@
-// File: /home/coder/Downloads/contact-sayt/app/page.tsx
+// File: /media/coder/Новый том/Front End/Project/Git Hub - Push/contact-sayt/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
