@@ -122,42 +122,42 @@ export default function CyberLandingVariant2() {
               </div>
 
               {/* Different GitHub link */}
-              <Link href="https://github.com/omadbek" target="_blank" className="block">
+              <Link href="https://github.com/OmadbekXusanboyev" target="_blank" className="block">
                 <button className="cyber-button-2 w-full py-3 px-6 border-2 border-cyan-400/50 rounded-lg bg-black/30 text-cyan-400 font-mono transition-all duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-400/30 hover:bg-cyan-400/10 whitespace-nowrap cursor-pointer">
                   <i className="ri-github-line w-5 h-5 inline-flex items-center justify-center mr-2"></i>
                   GitHub
                 </button>
               </Link>
 
-              <Link href="/portfolio-v2" className="block">
+              <Link href="https://omadbek-portfolio.vercel.app/" className="block">
                 <button className="cyber-button-2 w-full py-3 px-6 border-2 border-cyan-400/50 rounded-lg bg-black/30 text-cyan-400 font-mono transition-all duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-400/30 hover:bg-cyan-400/10 whitespace-nowrap cursor-pointer">
                   <i className="ri-briefcase-line w-5 h-5 inline-flex items-center justify-center mr-2"></i>
                   Portfolio
                 </button>
               </Link>
 
-              <Link href="https://linkedin.com/in/omadbek" target="_blank" className="block">
+              <Link href="https://www.linkedin.com/in/xusanboyev-omadbek/" target="_blank" className="block">
                 <button className="cyber-button-2 w-full py-3 px-6 border-2 border-cyan-400/50 rounded-lg bg-black/30 text-cyan-400 font-mono transition-all duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-400/30 hover:bg-cyan-400/10 whitespace-nowrap cursor-pointer">
                   <i className="ri-linkedin-line w-5 h-5 inline-flex items-center justify-center mr-2"></i>
                   LinkedIn
                 </button>
               </Link>
 
-              <Link href="https://t.me/omadbek_official" target="_blank" className="block">
+              <Link href="https://t.me/XusanboyevOmadbek" target="_blank" className="block">
                 <button className="cyber-button-2 w-full py-3 px-6 border-2 border-cyan-400/50 rounded-lg bg-black/30 text-cyan-400 font-mono transition-all duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-400/30 hover:bg-cyan-400/10 whitespace-nowrap cursor-pointer">
                   <i className="ri-telegram-line w-5 h-5 inline-flex items-center justify-center mr-2"></i>
                   Telegram
                 </button>
               </Link>
 
-              <Link href="/cyber-security-tools" className="block">
+              <Link href="https://t.me/KiberQoriqchiBot" className="block">
                 <button className="cyber-button-2 w-full py-3 px-6 border-2 border-cyan-400/50 rounded-lg bg-black/30 text-cyan-400 font-mono transition-all duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-400/30 hover:bg-cyan-400/10 whitespace-nowrap cursor-pointer">
                   <i className="ri-shield-line w-5 h-5 inline-flex items-center justify-center mr-2"></i>
                   Kiber Qo'riqchi Bot
                 </button>
               </Link>
 
-              <Link href="https://youtube.com/@omadbek_tech" target="_blank" className="block">
+              <Link href="https://www.youtube.com/@omadbek_official" target="_blank" className="block">
                 <button className="cyber-button-2 w-full py-3 px-6 border-2 border-red-400/50 rounded-lg bg-black/30 text-red-400 font-mono transition-all duration-300 hover:border-red-400 hover:shadow-lg hover:shadow-red-400/30 hover:bg-red-400/10 whitespace-nowrap cursor-pointer">
                   <i className="ri-youtube-line w-5 h-5 inline-flex items-center justify-center mr-2"></i>
                   YouTube
