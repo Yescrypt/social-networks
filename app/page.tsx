@@ -25,10 +25,21 @@ export default function CyberLanding() {
       {/* Hacker Silhouette Overlay - Behind content, z-5 */}
       {showHackerSilhouette && (
         <div className="fixed inset-0 z-5 pointer-events-none">
-          <div className="absolute top-20 right-20 w-32 h-32 opacity-15 animate-pulse">
-            <img
-              src="https://readdy.ai/api/search-image?query=mysterious%20hacker%20silhouette%20with%20hoodie%2C%20dark%20shadow%20figure%2C%20minimal%20black%20background%2C%20cyberpunk%20aesthetic%2C%20glitch%20effect%20overlay%2C%20anonymous%20digital%20ghost&width=128&height=128&seq=hacker1&orientation=squarish"
-              alt=""
+          <div className="absolute top-[330px] left-20 w-90 h-90 opacity-12 animate-pulse">
+            <img 
+              src="https://www.freepnglogos.com/uploads/hacker-png/hacker-ddos-protection-stop-dos-attacks-dosarrest-internet-10.png" 
+              alt="" 
+              className="w-full h-full object-cover filter brightness-50 contrast-200"
+            />
+          </div>
+        </div>
+      )}
+      {showHackerSilhouette && (
+        <div className="fixed inset-0 z-5 pointer-events-none">
+          <div className="absolute top-24 right-1 w-90 h-90 opacity-10 animate-pulse">
+            <img 
+              src="https://static.vecteezy.com/system/resources/previews/045/478/507/non_2x/ai-generated-hacker-in-hoodie-using-laptop-isolated-on-transparent-background-free-png.png" 
+              alt="" 
               className="w-full h-full object-cover filter brightness-50 contrast-200"
             />
           </div>
@@ -68,7 +79,7 @@ export default function CyberLanding() {
               <div className="relative mx-auto w-32 h-32">
                 <div className="w-full h-full rounded-full bg-gradient-to-r from-green-400 via-green-500 to-green-600 p-1 animate-pulse">
                   <img
-                    src="https://media.licdn.com/dms/image/v2/D4D35AQFP4FRhQ9GEWw/profile-framedphoto-shrink_200_200/B4DZV8DtPAHYAY-/0/1741543101748?e=1754575200&v=beta&t=eqn1xftAR_IE8e1U_pCshqex3MEugT7ZiU0vLfm6dHQ"
+                    src="https://media.licdn.com/dms/image/v2/D4D35AQFP4FRhQ9GEWw/profile-framedphoto-shrink_200_200/B4DZV8DtPAHYAY-/0/1741543101748?e=1755435600&v=beta&t=bJyAPxiG4X5XI9N1T6YvTpYIL6wDjAy3USuNNKnImvo"
                     className="rounded-full flex items-center justify-center"
                     alt="rasm"
                   />

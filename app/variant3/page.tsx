@@ -25,10 +25,21 @@ export default function CyberLandingVariant3() {
       {/* Hacker Silhouette Overlay - Behind content, z-5 */}
       {showHackerSilhouette && (
         <div className="fixed inset-0 z-5 pointer-events-none">
-          <div className="absolute top-1/2 right-10 w-36 h-36 opacity-10 animate-pulse">
-            <img
-              src="https://readdy.ai/api/search-image?query=elite%20hacker%20silhouette%20with%20purple%20neon%20mask%2C%20cyber%20warrior%20shadow%20figure%2C%20futuristic%20digital%20ghost%2C%20matrix%20code%20overlay%20effects%2C%20anonymous%20phantom%20in%20dark%20hood&width=144&height=144&seq=hacker3&orientation=squarish"
-              alt=""
+          <div className="absolute top-[330px] left-20 w-90 h-90 opacity-12 animate-pulse">
+            <img 
+              src="https://www.freepnglogos.com/uploads/hacker-png/hacker-ddos-protection-stop-dos-attacks-dosarrest-internet-10.png" 
+              alt="" 
+              className="w-full h-full object-cover filter brightness-50 contrast-200"
+            />
+          </div>
+        </div>
+      )}
+      {showHackerSilhouette && (
+        <div className="fixed inset-0 z-5 pointer-events-none">
+          <div className="absolute top-24 right-1 w-90 h-90 opacity-10 animate-pulse">
+            <img 
+              src="https://static.vecteezy.com/system/resources/previews/045/478/507/non_2x/ai-generated-hacker-in-hoodie-using-laptop-isolated-on-transparent-background-free-png.png" 
+              alt="" 
               className="w-full h-full object-cover filter brightness-50 contrast-200"
             />
           </div>
@@ -60,8 +71,11 @@ export default function CyberLandingVariant3() {
               <div className="relative mx-auto w-32 h-32">
                 <div className="w-full h-full rounded-full bg-gradient-to-r from-purple-400 via-green-500 to-purple-600 p-1 animate-pulse">
                   <div className="w-full h-full rounded-full bg-black flex items-center justify-center">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D35AQFP4FRhQ9GEWw/profile-framedphoto-shrink_200_200/B4DZV8DtPAHYAY-/0/1741543101748?e=1754575200&v=beta&t=eqn1xftAR_IE8e1U_pCshqex3MEugT7ZiU0vLfm6dHQ" className="rounded-full flex items-center justify-center" alt="rasm" />
-
+                     <img
+                    src="https://media.licdn.com/dms/image/v2/D4D35AQFP4FRhQ9GEWw/profile-framedphoto-shrink_200_200/B4DZV8DtPAHYAY-/0/1741543101748?e=1755435600&v=beta&t=bJyAPxiG4X5XI9N1T6YvTpYIL6wDjAy3USuNNKnImvo"
+                    className="rounded-full flex items-center justify-center"
+                    alt="rasm"
+                  />
                   </div>
                 </div>
               </div>

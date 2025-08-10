@@ -1,3 +1,5 @@
 {
+  "/variant2/page": "app/variant2/page.js",
+  "/variant3/page": "app/variant3/page.js",
   "/page": "app/page.js"
 }
