@@ -4,6 +4,7 @@
 import Link from 'next/link';
 import MatrixRain from '@/components/MatrixRain';
 import { useEffect, useState } from 'react';
+import Image2 from "../picture/1741543101748.jpeg"
 
 export default function CyberLandingVariant2() {
   const [showHackerSilhouette, setShowHackerSilhouette] = useState(false);
@@ -71,8 +72,9 @@ export default function CyberLandingVariant2() {
               <div className="relative mx-auto w-32 h-32">
                 <div className="w-full h-full rounded-full bg-gradient-to-r from-cyan-400 via-green-500 to-cyan-600 p-1 animate-pulse">
                   <div className="w-full h-full rounded-full bg-black flex items-center justify-center">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D35AQFP4FRhQ9GEWw/profile-framedphoto-shrink_200_200/B4DZV8DtPAHYAY-/0/1741543101748?e=1755435600&v=beta&t=bJyAPxiG4X5XI9N1T6YvTpYIL6wDjAy3USuNNKnImvo" className="rounded-full flex items-center justify-center" alt="rasm" />
-
+                    <img 
+                    src={Image2.src}
+                    className="rounded-full flex items-center justify-center" alt="rasm" />
                   </div>
                 </div>
               </div>
