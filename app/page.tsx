@@ -168,7 +168,7 @@ export default function CyberLanding() {
               </Link>
 
               <Link
-                href="https://t.me/XusanboyevOmadbek"
+                href="https://t.me/anonim_xatbot"
                 target="_blank"
                 className="block"
               >
