@@ -156,7 +156,7 @@ export default function CyberLandingVariant2() {
                 </button>
               </Link>
 
-              <Link href="https://t.me/XusanboyevOmadbek" target="_blank" className="block">
+              <Link href="https://t.me/anonim_xatbot" target="_blank" className="block">
                 <button className="cyber-button-2 w-full py-3 px-6 border-2 border-cyan-400/50 rounded-lg bg-black/30 text-cyan-400 font-mono transition-all duration-300 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-400/30 hover:bg-cyan-400/10 whitespace-nowrap cursor-pointer">
                   <i className="ri-telegram-line w-5 h-5 inline-flex items-center justify-center mr-2"></i>
                   Telegram
