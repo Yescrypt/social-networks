@@ -142,7 +142,7 @@ export default function CyberLanding() {
               </div>
 
               {/* Active Buttons */}
-              <Link href="https://github.com/OmadbekXusanboyev" target="_blank" className="block">
+              <Link href="https://github.com/Yescrypt" target="_blank" className="block">
                 <button className="cyber-button w-full py-3 px-6 border-2 border-green-400/50 rounded-lg bg-black/30 text-green-400 font-mono transition-all duration-300 hover:border-green-400 hover:shadow-lg hover:shadow-green-400/30 hover:bg-green-400/10 whitespace-nowrap cursor-pointer">
                   <i className="ri-github-line w-5 h-5 inline-flex items-center justify-center mr-2"></i>
                   GitHub
